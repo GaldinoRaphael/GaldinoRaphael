@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GaldinoRaphael
+- 👀 I’m interested in Javascript, C#, data structures and solving complex problems.
+- 🌱 I’m currently learning Angular and .NetCore
+- 💞️ I’m looking to collaborate on open source projects.
+- 📫 You can send-me a e-mail in raphael.galdino.s@hotmail.com
